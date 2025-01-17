@@ -1,0 +1,7 @@
+eel
+loguru
+transformers
+datasets
+pytorch
+tensorflow
+pandas
